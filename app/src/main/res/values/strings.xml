@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">BagFare</string>
+
+    <!-- Instruction Guide -->
+    <string name="instructions"><b>How to Use</b>:\n\n1. Enter baggage weight in kg.\n2. Select your ticket class.\n3. Enter the rate per kg.\n4. Tap Calculate to see the total.\n\n<b>Note:</b>\nEconomy: 20 kg | Business: 40 kg\nAn 8% service tax applies to extra charges.</string>
+    <string name="about">About</string>
+    <string name="share_app">Share App</string>
+    <string name="share">Share</string>
+
+    <!-- Spinner Item -->
+    <string-array name="ticket_class">
+        <item>Select Class</item>
+        <item>Economy</item>
+        <item>Business</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main theme -->
+    <color name="primary_color">#243853</color>
+    <color name="secondary_color">#CC6B4B</color>
+    <color name="accent_color">#CC6B4B</color>
+
+    <!-- Backgrounds -->
+    <color name="background_color">#F0F2F2</color>
+    <color name="card_color">#FFFFFF</color>
+
+    <!-- Supporting colour -->
+    <color name="border_color">#C8D1D9</color>
+</resources>
